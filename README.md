@@ -15,7 +15,7 @@ HTMLオリジナル課題 サンプル実装になります。
 
 ### アカウント作成ページ
 
-[index2.html](public/NiceAdmin/pages-register.html)
+[pages-register.html](public/NiceAdmin/pages-register.html)
 
 <img src="docs/2023-12-18_134648.jpg" width="75%">
 
